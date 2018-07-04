@@ -7,21 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		460CFA0320C9014A006C95C3 /* WordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460CFA0220C9014A006C95C3 /* WordViewController.swift */; };
+		460CFA0520C90775006C95C3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 460CFA0420C90775006C95C3 /* Images.xcassets */; };
+		462F6E8D20E25D320095A93B /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 462F6E8C20E25D320095A93B /* QuestionViewController.swift */; };
+		465C7C4720E0D2C80001336F /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 465C7C4620E0D2C80001336F /* Story.swift */; };
+		465C7C4920E0E46C0001336F /* StoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 465C7C4820E0E46C0001336F /* StoryViewController.swift */; };
+		466949E320C9230A005BA6AC /* FruitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 466949E220C9230A005BA6AC /* FruitViewController.swift */; };
+		46694A0120C929E4005BA6AC /* AnimalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46694A0020C929E4005BA6AC /* AnimalViewController.swift */; };
+		46694A2120C92DFD005BA6AC /* vegetableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46694A2020C92DFD005BA6AC /* vegetableViewController.swift */; };
+		46694A4120CA67B6005BA6AC /* bensound-littleidea.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 46694A4020CA67B6005BA6AC /* bensound-littleidea.mp3 */; };
 		46885DDA20C501D7003F138A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46885DD920C501D7003F138A /* AppDelegate.swift */; };
 		46885DDC20C501D7003F138A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46885DDB20C501D7003F138A /* ViewController.swift */; };
 		46885DDF20C501D7003F138A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46885DDD20C501D7003F138A /* Main.storyboard */; };
-		46885DE120C501DB003F138A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46885DE020C501DB003F138A /* Assets.xcassets */; };
 		46885DE420C501DB003F138A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46885DE220C501DB003F138A /* LaunchScreen.storyboard */; };
+		46885DF220C50D39003F138A /* pt-sans.regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 46885DF120C50D39003F138A /* pt-sans.regular.ttf */; };
+		46885DF420C50EA9003F138A /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46885DF320C50EA9003F138A /* CategoryViewController.swift */; };
+		46885DF620C51022003F138A /* pt-sans.bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 46885DF520C51022003F138A /* pt-sans.bold.ttf */; };
+		46885DFA20C515FC003F138A /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46885DF920C515FC003F138A /* SettingViewController.swift */; };
+		46885DFC20C51C63003F138A /* BriefViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46885DFB20C51C63003F138A /* BriefViewController.swift */; };
+		46885DFE20C6640B003F138A /* BriefWordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46885DFD20C6640B003F138A /* BriefWordViewController.swift */; };
+		46885E0020C66501003F138A /* BriefStoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46885DFF20C66501003F138A /* BriefStoryViewController.swift */; };
+		469C374320DCDABE001D5042 /* StoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 469C374220DCDABE001D5042 /* StoryTableViewCell.swift */; };
+		469C374520DCDBB1001D5042 /* StoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 469C374420DCDBB1001D5042 /* StoryTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		460CFA0220C9014A006C95C3 /* WordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordViewController.swift; sourceTree = "<group>"; };
+		460CFA0420C90775006C95C3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		462F6E8C20E25D320095A93B /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		465C7C4620E0D2C80001336F /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
+		465C7C4820E0E46C0001336F /* StoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryViewController.swift; sourceTree = "<group>"; };
+		466949E220C9230A005BA6AC /* FruitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitViewController.swift; sourceTree = "<group>"; };
+		46694A0020C929E4005BA6AC /* AnimalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalViewController.swift; sourceTree = "<group>"; };
+		46694A2020C92DFD005BA6AC /* vegetableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vegetableViewController.swift; sourceTree = "<group>"; };
+		46694A4020CA67B6005BA6AC /* bensound-littleidea.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "bensound-littleidea.mp3"; path = "../../../../../Downloads/bensound-littleidea.mp3"; sourceTree = "<group>"; };
 		46885DD620C501D7003F138A /* Mari Membaca.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mari Membaca.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		46885DD920C501D7003F138A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		46885DDB20C501D7003F138A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		46885DDE20C501D7003F138A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		46885DE020C501DB003F138A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46885DE320C501DB003F138A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		46885DE520C501DB003F138A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46885DF120C50D39003F138A /* pt-sans.regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "pt-sans.regular.ttf"; path = "../../../../../Downloads/pt-sans.regular.ttf"; sourceTree = "<group>"; };
+		46885DF320C50EA9003F138A /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
+		46885DF520C51022003F138A /* pt-sans.bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "pt-sans.bold.ttf"; path = "../../../../../Downloads/pt-sans.bold.ttf"; sourceTree = "<group>"; };
+		46885DF920C515FC003F138A /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		46885DFB20C51C63003F138A /* BriefViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BriefViewController.swift; sourceTree = "<group>"; };
+		46885DFD20C6640B003F138A /* BriefWordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BriefWordViewController.swift; sourceTree = "<group>"; };
+		46885DFF20C66501003F138A /* BriefStoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BriefStoryViewController.swift; sourceTree = "<group>"; };
+		469C374220DCDABE001D5042 /* StoryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryTableViewCell.swift; sourceTree = "<group>"; };
+		469C374420DCDBB1001D5042 /* StoryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +69,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		466949AB20C90B16005BA6AC /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				46694A4020CA67B6005BA6AC /* bensound-littleidea.mp3 */,
+			);
+			path = Sound;
+			sourceTree = "<group>";
+		};
 		46885DCD20C501D7003F138A = {
 			isa = PBXGroup;
 			children = (
@@ -54,14 +96,39 @@
 		46885DD820C501D7003F138A /* Mari Membaca */ = {
 			isa = PBXGroup;
 			children = (
+				466949AB20C90B16005BA6AC /* Sound */,
+				46885DF020C50CB7003F138A /* Font */,
 				46885DD920C501D7003F138A /* AppDelegate.swift */,
 				46885DDB20C501D7003F138A /* ViewController.swift */,
 				46885DDD20C501D7003F138A /* Main.storyboard */,
-				46885DE020C501DB003F138A /* Assets.xcassets */,
+				462F6E8C20E25D320095A93B /* QuestionViewController.swift */,
+				465C7C4820E0E46C0001336F /* StoryViewController.swift */,
+				465C7C4620E0D2C80001336F /* Story.swift */,
+				469C374420DCDBB1001D5042 /* StoryTableViewController.swift */,
+				469C374220DCDABE001D5042 /* StoryTableViewCell.swift */,
+				46694A2020C92DFD005BA6AC /* vegetableViewController.swift */,
+				46694A0020C929E4005BA6AC /* AnimalViewController.swift */,
+				466949E220C9230A005BA6AC /* FruitViewController.swift */,
+				460CFA0220C9014A006C95C3 /* WordViewController.swift */,
+				46885DFF20C66501003F138A /* BriefStoryViewController.swift */,
+				46885DFD20C6640B003F138A /* BriefWordViewController.swift */,
+				46885DFB20C51C63003F138A /* BriefViewController.swift */,
+				46885DF920C515FC003F138A /* SettingViewController.swift */,
+				46885DF320C50EA9003F138A /* CategoryViewController.swift */,
 				46885DE220C501DB003F138A /* LaunchScreen.storyboard */,
 				46885DE520C501DB003F138A /* Info.plist */,
+				460CFA0420C90775006C95C3 /* Images.xcassets */,
 			);
 			path = "Mari Membaca";
+			sourceTree = "<group>";
+		};
+		46885DF020C50CB7003F138A /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				46885DF520C51022003F138A /* pt-sans.bold.ttf */,
+				46885DF120C50D39003F138A /* pt-sans.regular.ttf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,7 +190,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				46885DE420C501DB003F138A /* LaunchScreen.storyboard in Resources */,
-				46885DE120C501DB003F138A /* Assets.xcassets in Resources */,
+				460CFA0520C90775006C95C3 /* Images.xcassets in Resources */,
+				46694A4120CA67B6005BA6AC /* bensound-littleidea.mp3 in Resources */,
+				46885DF220C50D39003F138A /* pt-sans.regular.ttf in Resources */,
+				46885DF620C51022003F138A /* pt-sans.bold.ttf in Resources */,
 				46885DDF20C501D7003F138A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,8 +205,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				465C7C4920E0E46C0001336F /* StoryViewController.swift in Sources */,
+				46694A2120C92DFD005BA6AC /* vegetableViewController.swift in Sources */,
+				469C374520DCDBB1001D5042 /* StoryTableViewController.swift in Sources */,
+				46694A0120C929E4005BA6AC /* AnimalViewController.swift in Sources */,
 				46885DDC20C501D7003F138A /* ViewController.swift in Sources */,
+				46885DF420C50EA9003F138A /* CategoryViewController.swift in Sources */,
+				466949E320C9230A005BA6AC /* FruitViewController.swift in Sources */,
 				46885DDA20C501D7003F138A /* AppDelegate.swift in Sources */,
+				465C7C4720E0D2C80001336F /* Story.swift in Sources */,
+				46885DFC20C51C63003F138A /* BriefViewController.swift in Sources */,
+				46885DFA20C515FC003F138A /* SettingViewController.swift in Sources */,
+				469C374320DCDABE001D5042 /* StoryTableViewCell.swift in Sources */,
+				46885DFE20C6640B003F138A /* BriefWordViewController.swift in Sources */,
+				460CFA0320C9014A006C95C3 /* WordViewController.swift in Sources */,
+				462F6E8D20E25D320095A93B /* QuestionViewController.swift in Sources */,
+				46885E0020C66501003F138A /* BriefStoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
